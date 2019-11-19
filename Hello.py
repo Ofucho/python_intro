@@ -49,5 +49,9 @@ z='I love programming'
 #y=x.lower()
 #print(y)
 
+lesson='introduction to python programming'
+z=lesson.count("p")
+print(z)
+
 
 
