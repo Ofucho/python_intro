@@ -64,12 +64,12 @@ LOGICAL OPERATORS i.e and  or  not
 #c *=4
 #print(c)
 
-""""
-Membership and identity operators
-"""
+#""""
+#Membership and identity operators
+#"""
 
-x = input("Enter a number")
-y = input("Enter a number")
+#x = input("Enter a number")
+#y = input("Enter a number")
 
-sum = x + y
-print(sum)
+#sum = x + y
+#print(sum)
