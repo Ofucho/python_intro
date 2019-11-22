@@ -38,13 +38,13 @@ for each in marks :
 print(Total_Marks)
 
 #WHILe
-i = 1
-while i < len(range(0,11)):
-    print(i)
-    i = i + 1
+i = 0
+while i<100 :
+    print( "JB" )
+    #jb = jb + 1
 
-my_name = "jb"
-number = 1
-for jb in "jb :
-    print("jb")
-    number=+10
+
+#i = 0
+#while i < len(range(0,100))
+ #   print("jb")
+  #  i = i + 1
